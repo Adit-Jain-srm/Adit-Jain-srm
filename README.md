@@ -1,19 +1,21 @@
 <div align="center">
-	<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="70" alt="Waving hand" />
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=700&color=7DF9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&lines=Hey%2C+I'm+Adit+Jain;Shipping+clean%2C+reliable+software;Designing+human-friendly+UX+%2B+DevEx" alt="Typing intro" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:8b5cf6&height=6&section=header&reversal=true" alt="Accent bar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=700&color=7DF9FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&lines=Adit+Jain;Designing+calm+UX+and+DevEx+tools;Shipping+reliable+systems+with+care" alt="Animated intro" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:0ea5e9&height=6&section=footer&reversal=true" alt="Accent bar" />
 </div>
 
-> I build tidy APIs, thoughtful interfaces, and tools that make teams faster.
+> I design for clarity, build for reliability, and document so others can move faster.
 
-## Now
-- 🔭 Shipping: small, fast iterations on useful web tools and DX utilities.
-- 🎙 Sharing: notes on frontend craft, developer productivity, and design systems.
-- 🤝 Open to: pairing on interesting side projects or mentoring sessions.
+## Snapshot
+- 🧭 Values: thoughtful defaults, crisp docs, and pragmatic automation.
+- 🎯 Current focus: shipping small, high-signal web tools and DX utilities.
+- 🤝 Collaboration: open to pairing, code reviews, and mentoring hours.
+- ⏱️ Rhythm: short iterations, frequent demos, visible changelogs.
 
 ## Building in public
-- 📌 [Project One](https://example.com) — concise description and your role.
-- 🚀 [Project Two](https://example.com) — what you built and what you learned.
-- ✨ [Project Three](https://example.com) — highlight the impact or metrics.
+- 📌 [Project One](https://example.com) — replace with a flagship project; note stack and impact.
+- 🚀 [Project Two](https://example.com) — ship notes: what you built, what changed for users.
+- ✨ [Project Three](https://example.com) — spotlight a metric, a user story, or a design win.
 
 ## Toolbox
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,24 +26,28 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## Currently learning
-- TypeScript-heavy patterns for safer frontends and APIs
-- System design for small, sharp teams (observability, deploy pipelines, testing depth)
-- Writing clearer docs, guides, and runbooks
+## Learning loop
+- Pushing TypeScript patterns for safer frontends and APIs.
+- System design for small, sharp teams: observability, deploy cadence, and testing depth.
+- Writing clearer docs, guides, and runbooks so new contributors onboard quickly.
 
-## Animated stats
+## Signals (swap with real wins)
+- ✅ Outcome: describe a shipped feature and the user impact.
+- 📈 Metric: call out a performance gain, reliability lift, or adoption number.
+- 🧭 Leadership: note mentorship, review culture, or process improvements you led.
+
+## Animated pulse
 <div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adit-Jain-srm&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-	<img src="https://github-readme-stats.vercel.app/api?username=Adit-Jain-srm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adit-Jain-srm&custom_title=Adit%27s%20Activity&hide_border=true&theme=tokyo-night" alt="Activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adit-Jain-srm&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
-## How to reach me
+## Connect
 - ✉️ Email: you@domain.com
-- 💼 LinkedIn: https://www.linkedin.com/in/your-handle
-- 📝 Writing: https://blog.example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/-adit-jain
+- 🐙 GitHub: https://github.com/Adit-Jain-srm
+- 📄 Resume/Portfolio: https://link-to-your-resume-or-site.com
 
-## A few personal notes
-- 🌱 Always chasing the balance of simplicity and capability.
-- 🎯 2026 goals: ship more in public, mentor more, automate the boring parts.
-- ☕️ Coffee chats welcome — I love trading notes on workflows and tooling.
+## Quick edit checklist
+- Replace the project links and outcomes with your real work.
+- Drop in current email and resume/portfolio.
+- Add a recent metric or story to the Signals section.
