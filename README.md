@@ -7,15 +7,16 @@
 > I design for clarity, build for reliability, and document so others can move faster.
 
 ## Snapshot
-- 🧭 Values: thoughtful defaults, crisp docs, and pragmatic automation.
-- 🎯 Current focus: shipping small, high-signal web tools and DX utilities.
-- 🤝 Collaboration: open to pairing, code reviews, and mentoring hours.
-- ⏱️ Rhythm: short iterations, frequent demos, visible changelogs.
+- 🧠 Bio: Curious, not certain. Aspiring AI innovator in tech and fintech.
+- 🎓 Context: SRMIST | Based in Delhi NCR.
+- 🎯 Current focus: voice-first AI experiences, practical LLM systems, and developer tooling.
+- 🤝 Collaboration: open to hackathons, shipping sprints, and high-quality PR reviews.
 
 ## Building in public
-- 📌 [Project One](https://example.com) — replace with a flagship project; note stack and impact.
-- 🚀 [Project Two](https://example.com) — ship notes: what you built, what changed for users.
-- ✨ [Project Three](https://example.com) — spotlight a metric, a user story, or a design win.
+- 📌 [PrepWise.AI](https://github.com/Adit-Jain-srm/PrepWise.AI) — Azure OpenAI-powered MBA interview platform with resume parsing, personalized question loops, video responses, and downloadable AI feedback reports.
+- 🚀 [AI Agent Weekly Discovery](https://github.com/Adit-Jain-srm/AI_Agent-Weekly-Discovery) — autonomous Python pipeline that discovers new AI tools using async scraping + GPT extraction and publishes results to Microsoft Teams.
+- 🎙️ [Saarthi-AI](https://github.com/SAARTHII-AI/Saarthi-AI) — voice-first multilingual assistant for Indian farmers, built with FastAPI, Azure OpenAI, and offline-first PWA patterns.
+- 🛡️ [GitHub AI Code Review Bot](https://github.com/Adit-Jain-srm/github-ai-code-review-bot) — serverless PR review assistant focused on actionable feedback for style, security, and standards.
 
 ## Toolbox
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,14 +28,14 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Learning loop
-- Pushing TypeScript patterns for safer frontends and APIs.
-- System design for small, sharp teams: observability, deploy cadence, and testing depth.
-- Writing clearer docs, guides, and runbooks so new contributors onboard quickly.
+- Building stronger RAG and evaluation loops for production AI assistants.
+- Improving async architecture patterns for high-signal agent pipelines.
+- Balancing speed and reliability in hackathon-to-product transitions.
 
-## Signals (swap with real wins)
-- ✅ Outcome: describe a shipped feature and the user impact.
-- 📈 Metric: call out a performance gain, reliability lift, or adoption number.
-- 🧭 Leadership: note mentorship, review culture, or process improvements you led.
+## Signals
+- ✅ Built and shipped a full AI interview platform in under 24 hours during a virtual hackathon, then expanded it into a richer product workflow.
+- 🧪 Active in collaborative repositories with substantial PR discussion and iterative product refinement.
+- 🏅 GitHub achievements include Pull Shark, Pair Extraordinaire, and YOLO.
 
 ## Animated pulse
 <div align="center">
@@ -42,12 +43,6 @@
 </div>
 
 ## Connect
-- ✉️ Email: you@domain.com
 - 💼 LinkedIn: https://www.linkedin.com/in/-adit-jain
 - 🐙 GitHub: https://github.com/Adit-Jain-srm
-- 📄 Resume/Portfolio: https://link-to-your-resume-or-site.com
-
-## Quick edit checklist
-- Replace the project links and outcomes with your real work.
-- Drop in current email and resume/portfolio.
-- Add a recent metric or story to the Signals section.
+- 📬 Best way to reach me: LinkedIn DM
