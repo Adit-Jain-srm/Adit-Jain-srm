@@ -43,14 +43,16 @@
 I like building voice-first and interview-style AI experiences with practical deployment paths, not just demos.
 
 ## Learning loop
-- Building stronger RAG and evaluation loops for production AI assistants.
-- Improving async architecture patterns for high-signal agent pipelines.
-- Balancing speed and reliability in hackathon-to-product transitions.
+- RAG quality: tuning retrieval + prompting to reduce generic answers and improve grounded responses in multilingual, voice-first flows.
+- Agent reliability: hardening async pipelines with retry/backoff, filtering, and stricter extraction contracts for cleaner outputs.
+- Productization: converting hackathon prototypes into maintainable systems with better docs, modular boundaries, and deploy-ready defaults.
 
 ## Signals
-- ✅ Built and shipped a full AI interview platform in under 24 hours during a virtual hackathon, then expanded it into a richer product workflow.
-- 🧪 Active in collaborative repositories with substantial PR discussion and iterative product refinement.
-- 🏅 GitHub achievements include Pull Shark, Pair Extraordinaire, and YOLO.
+- ⚡ Built and shipped PrepWise.AI in <24 hours for a virtual MBA interview hackathon, then iterated it into a fuller product experience.
+- 📈 GitHub momentum: 111 contributions in the last year, with a visible spike of multi-repo activity in March 2026.
+- 🛠️ Delivery cadence: created 6 repositories and contributed across 4 repositories in a single month snapshot.
+- 🤝 Collaboration signal: opened PRs with substantial review depth (including a PR thread with 18 comments), then followed through with merged improvements.
+- 🏅 Recognition: earned Pull Shark, Pair Extraordinaire, and YOLO achievements on GitHub.
 
 ## Animated pulse
 <div align="center">
