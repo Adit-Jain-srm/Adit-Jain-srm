@@ -1,71 +1,120 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=180&section=header&text=Adit%20Jain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Animated header" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=700&color=7DF9FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&lines=Adit+Jain;Designing+calm+UX+and+DevEx+tools;Shipping+reliable+systems+with+care" alt="Animated intro" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:0ea5e9&height=6&section=footer&reversal=true" alt="Accent divider" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,25:1e1b4b,50:0369a1,75:1d4ed8,100:0ea5e9&text=YOUR_NAME&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=twinkling&desc=YOUR_TAGLINE&descAlignY=58&descSize=16" alt="Header" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&repeat=true&width=920&lines=YOUR_NAME;YOUR_TAGLINE;Building+interfaces+that+feel+alive;Turning+ideas+into+shippable+systems" alt="Typing" />
+  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5za2owczQ0MzF6NWx5bTZsczFicnJzeW1mbWk0Z2pkN3Z1dWVmeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="720" alt="Futuristic coding animation" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0ea5e9" alt="Visitor counter" />
 </div>
 
-> I design for clarity, build for reliability, and document so others can move faster.
-
-## Snapshot
-- 🧠 Bio: Curious, not certain. Aspiring AI innovator in tech and fintech.
-- 🎓 Context: SRMIST | Based in Delhi NCR.
-- 🎯 Current focus: voice-first AI experiences, practical LLM systems, and developer tooling.
-- 🤝 Collaboration: open to hackathons, rapid shipping sprints, and high-quality PR reviews.
-
-## Building in public
-- 📌 [PrepWise.AI](https://github.com/Adit-Jain-srm/PrepWise.AI) — Azure OpenAI-powered MBA interview platform with resume parsing, personalized question loops, video responses, and downloadable AI feedback reports.
-- 🚀 [AI Agent Weekly Discovery](https://github.com/Adit-Jain-srm/AI_Agent-Weekly-Discovery) — autonomous Python pipeline that discovers new AI tools using async scraping + GPT extraction and publishes results to Microsoft Teams.
-- 🎙️ [Saarthi-AI](https://github.com/SAARTHII-AI/Saarthi-AI) — voice-first multilingual assistant for Indian farmers, built with FastAPI, Azure OpenAI, and offline-first PWA patterns.
-- 🛡️ [GitHub AI Code Review Bot](https://github.com/Adit-Jain-srm/github-ai-code-review-bot) — serverless PR review assistant focused on actionable feedback for style, security, and standards.
-
-## Toolbox (what I actually ship with)
-
-### AI + Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Speech](https://img.shields.io/badge/Azure%20Speech-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### Frontend + Product
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-
-### Data + Delivery
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-I build voice-first and interview-style AI experiences with practical deployment paths, not just demos.
-
-## Learning loop
-- RAG quality: tuning retrieval + prompting to reduce generic answers and improve grounded responses in multilingual, voice-first flows.
-- Agent reliability: hardening async pipelines with retry/backoff, strict filtering, and tighter extraction contracts.
-- Productization: turning hackathon prototypes into maintainable systems with better docs, modular boundaries, and deploy-ready defaults.
-
-## Signals
-- ⚡ Built and shipped PrepWise.AI in <24 hours for a virtual MBA interview hackathon, then iterated it into a fuller product experience.
-- 📈 GitHub momentum: 111 contributions in the last year, with a visible spike of multi-repo activity in March 2026.
-- 🛠️ Delivery cadence: created 6 repositories and contributed across 4 repositories in a single month snapshot.
-- 🤝 Collaboration signal: opened PRs with substantial review depth (including an 18-comment thread), then followed through with merged improvements.
-- 🏅 Recognition: earned Pull Shark, Pair Extraordinaire, and YOLO achievements on GitHub.
-
-## Motion dashboard
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adit-Jain-srm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Jain-srm&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adit-Jain-srm&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adit-Jain-srm&custom_title=Contribution%20Rhythm&hide_border=true&theme=tokyo-night" alt="Contribution graph" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/Adit-Jain-srm/Adit-Jain-srm/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:22d3ee,100:6366f1&section=header" alt="divider" />
 </div>
 
-## Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/-adit-jain
-- 🐙 GitHub: https://github.com/Adit-Jain-srm
-- 📬 Best way to reach me: LinkedIn DM
+## 🚀 About Me
+- ⚙️ Role: YOUR_ROLE
+- 🧩 Interests: YOUR_INTERESTS
+- 🎯 Current goals: YOUR_CURRENT_GOALS
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:6366f1,100:22d3ee&section=header" alt="divider" />
+</div>
+
+## 🧠 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=22d3ee)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=22d3ee)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=22d3ee)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=22d3ee)
+
+### Frameworks / Libraries
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=22d3ee)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=22d3ee)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=22d3ee)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=22d3ee)
+
+### Tools / Platforms
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=22d3ee)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=22d3ee)
+![Azure](https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=22d3ee)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=22d3ee)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:22d3ee,100:6366f1&section=header" alt="divider" />
+</div>
+
+## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Waveform" alt="activity-graph" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:6366f1,100:22d3ee&section=header" alt="divider" />
+</div>
+
+## 🧩 Featured Projects
+### PROJECT_NAME_1
+Short description of what this project does and why it is useful.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=22d3ee)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=22d3ee)
+![AI](https://img.shields.io/badge/AI-111827?style=flat-square&logo=openai&logoColor=22d3ee)
+
+### PROJECT_NAME_2
+Short description of the architecture, impact, or core problem solved.
+
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=22d3ee)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=22d3ee)
+![Cloud](https://img.shields.io/badge/Cloud-111827?style=flat-square&logo=microsoftazure&logoColor=22d3ee)
+
+### PROJECT_NAME_3
+Short description with one standout detail (scale, speed, or UX innovation).
+
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=22d3ee)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=22d3ee)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=22d3ee)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:22d3ee,100:6366f1&section=header" alt="divider" />
+</div>
+
+## 🔭 Current Focus
+- 🛠 Building: WHAT_YOU_ARE_BUILDING
+- 🧪 Exploring: WHAT_YOU_ARE_EXPLORING
+- ⚡ Optimizing: performance, reliability, and shipping velocity
+
+## 🌱 Learning
+- Currently learning: CURRENT_TECHNOLOGIES
+- Next frontier: FUTURE_GOALS
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:6366f1,100:22d3ee&section=header" alt="divider" />
+</div>
+
+## 🌐 Connect With Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email" />
+  </a>
+  <a href="https://portfolio.example.com">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:22d3ee,100:6366f1&section=header" alt="divider" />
+</div>
+
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
