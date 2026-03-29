@@ -10,7 +10,7 @@
 - 🧠 Bio: Curious, not certain. Aspiring AI innovator in tech and fintech.
 - 🎓 Context: SRMIST | Based in Delhi NCR.
 - 🎯 Current focus: voice-first AI experiences, practical LLM systems, and developer tooling.
-- 🤝 Collaboration: open to hackathons, shipping sprints, and high-quality PR reviews.
+- 🤝 Collaboration: open to hackathons, rapid shipping sprints, and high-quality PR reviews.
 
 ## Building in public
 - 📌 [PrepWise.AI](https://github.com/Adit-Jain-srm/PrepWise.AI) — Azure OpenAI-powered MBA interview platform with resume parsing, personalized question loops, video responses, and downloadable AI feedback reports.
@@ -40,26 +40,28 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-I like building voice-first and interview-style AI experiences with practical deployment paths, not just demos.
+I build voice-first and interview-style AI experiences with practical deployment paths, not just demos.
 
 ## Learning loop
 - RAG quality: tuning retrieval + prompting to reduce generic answers and improve grounded responses in multilingual, voice-first flows.
-- Agent reliability: hardening async pipelines with retry/backoff, filtering, and stricter extraction contracts for cleaner outputs.
-- Productization: converting hackathon prototypes into maintainable systems with better docs, modular boundaries, and deploy-ready defaults.
+- Agent reliability: hardening async pipelines with retry/backoff, strict filtering, and tighter extraction contracts.
+- Productization: turning hackathon prototypes into maintainable systems with better docs, modular boundaries, and deploy-ready defaults.
 
 ## Signals
 - ⚡ Built and shipped PrepWise.AI in <24 hours for a virtual MBA interview hackathon, then iterated it into a fuller product experience.
 - 📈 GitHub momentum: 111 contributions in the last year, with a visible spike of multi-repo activity in March 2026.
 - 🛠️ Delivery cadence: created 6 repositories and contributed across 4 repositories in a single month snapshot.
-- 🤝 Collaboration signal: opened PRs with substantial review depth (including a PR thread with 18 comments), then followed through with merged improvements.
+- 🤝 Collaboration signal: opened PRs with substantial review depth (including an 18-comment thread), then followed through with merged improvements.
 - 🏅 Recognition: earned Pull Shark, Pair Extraordinaire, and YOLO achievements on GitHub.
 
 ## Motion dashboard
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adit-Jain-srm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Jain-srm&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adit-Jain-srm&theme=tokyonight&hide_border=true" alt="GitHub streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adit-Jain-srm&custom_title=Contribution%20Rhythm&hide_border=true&theme=tokyo-night" alt="Contribution graph" />
+  <br/>
   <img src="https://raw.githubusercontent.com/Adit-Jain-srm/Adit-Jain-srm/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </div>
 
