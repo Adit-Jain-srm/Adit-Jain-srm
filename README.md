@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:8b5cf6&height=6&section=header&reversal=true" alt="Accent bar" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=180&section=header&text=Adit%20Jain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Animated header" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=700&color=7DF9FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&lines=Adit+Jain;Designing+calm+UX+and+DevEx+tools;Shipping+reliable+systems+with+care" alt="Animated intro" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:0ea5e9&height=6&section=footer&reversal=true" alt="Accent bar" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:0ea5e9&height=6&section=footer&reversal=true" alt="Accent divider" />
 </div>
 
 > I design for clarity, build for reliability, and document so others can move faster.
@@ -54,9 +54,13 @@ I like building voice-first and interview-style AI experiences with practical de
 - 🤝 Collaboration signal: opened PRs with substantial review depth (including a PR thread with 18 comments), then followed through with merged improvements.
 - 🏅 Recognition: earned Pull Shark, Pair Extraordinaire, and YOLO achievements on GitHub.
 
-## Animated pulse
+## Motion dashboard
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adit-Jain-srm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Jain-srm&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adit-Jain-srm&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adit-Jain-srm&custom_title=Contribution%20Rhythm&hide_border=true&theme=tokyo-night" alt="Contribution graph" />
+  <img src="https://raw.githubusercontent.com/Adit-Jain-srm/Adit-Jain-srm/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </div>
 
 ## Connect
