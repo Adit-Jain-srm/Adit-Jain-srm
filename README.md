@@ -9,8 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-adit-jain)
 [![CV](https://img.shields.io/badge/CV-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/adit-jain-cv)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adit-Jain-srm)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/tU3h7ldFTa)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aj9104)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/adit-jain.fd042c56)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/aditjain/)
 
@@ -29,7 +27,7 @@ Vibes:      Chess, CTFs, Table Tennis, AGI research, coffee with extra sugar ☕
 
 I build AI systems that don't just predict — they **reason, orchestrate, and self-improve**. Multi-agent swarms that get better every cycle. Adversarial training loops that harden models while you sleep. RAG pipelines that actually work in production. IDE skills that make other developers' agents smarter.
 
-![Repos](https://img.shields.io/badge/dynamic/json?color=181717&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAdit-Jain-srm&style=flat-square&logo=github) public repos. Always shipping.
+![Visitors](https://komarev.com/ghpvc/?username=Adit-Jain-srm&color=58a6ff&style=flat-square&label=Profile+Views)
 
 ---
 
@@ -231,8 +229,6 @@ If you're into agentic AI, adversarial robustness, multi-agent orchestration, or
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-adit-jain)
 
 <br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=Adit-Jain-srm&color=58a6ff&style=flat-square&label=Profile+Views)
 
 <br/>
 
