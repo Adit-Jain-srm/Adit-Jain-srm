@@ -32,7 +32,8 @@ I build AI systems that don't just predict — they **reason, orchestrate, and s
 
 ---
 
-## 🧠 Currently Building — NightmareNet
+<details open>
+<summary><h2>🧠 Currently Building — NightmareNet</h2></summary>
 
 <div align="center">
 
@@ -54,9 +55,70 @@ Production models silently degrade — adversarial perturbations collapse accura
 - Cyberpunk Next.js 16 dashboard (20 panels) + CLI (`nightmarenet train | evaluate | benchmark`)
 - Apache 2.0 OSS core — runs on a 4GB VRAM laptop GPU
 
+</details>
+
 ---
 
-## 🛠️ Stack
+<details open>
+<summary><h2>🚀 Projects</h2></summary>
+
+| Project | What it does | Link |
+|---------|-------------|------|
+| **NWTR** | AI-powered real estate — Next.js 15, Three.js, R3F, GSAP, Spline, 42-component design system | [Live](https://nwtr-web.vercel.app) |
+| **AtomicPulse** | AI performance management — GPT-4o copilot, SMART goals, KPI prediction, semantic search | [Live](https://atomic-pulse-aj5.vercel.app/) |
+| **PrepWise.AI** | Azure OpenAI interview platform — resume parsing, adaptive questions, tone analysis, scored PDFs | [Live](https://prep-wise-ai-gvw4.vercel.app/) |
+| **Vibe Syndicate** | 6-agent self-improving swarm — cross-model review, compound memory, 14 MCP tools | [Live](https://syndicate-ui-five.vercel.app) |
+| **XenoReach.AI** | AI-native CRM — autonomous campaign agents that plan, execute & optimize marketing workflows | [Live](https://xeno-reach-ai.vercel.app) |
+| **Workforce Dashboard** | Regional workforce intelligence — Indeed/LinkedIn/USAJobs ingestion, skills gap mapping, NL Q&A | [Live](https://wwv-commit-ai.vercel.app/) |
+
+> Also: [SaarthiAI](https://saarthi-ai--aditjain628.replit.app/) (11-language farmer voice assistant, RAG) · [AI Tool Discovery Agent](https://github.com/Adit-Jain-srm/AI_Agent-Weekly-Discovery) (async GPT-4o pipeline + Teams) · [GitHub AI Code Review Bot](https://github.com/aditj-optimus/github-ai-code-review-bot) (RAG + Azure Functions)
+
+</details>
+
+---
+
+<details>
+<summary><h2>📦 Published Tools</h2></summary>
+
+### [skill-forge](https://github.com/Adit-Jain-srm/skill-forge)
+
+Self-improving intelligence amplifier for AI coding agents. 18 behavioral skills (diagnose, prove-it, self-review, grill, context-builder, mcp-conductor, ai-debt-detector...) that make Cursor, Claude Code, Copilot, and Codex fundamentally better. Zero npm dependencies, TF-IDF routing, SkillOpt self-improvement loop.
+
+```bash
+npx skills@latest add Adit-Jain-srm/skill-forge
+```
+
+### [Vibe Syndicate MCP](https://github.com/Adit-Jain-srm/Vibe-Syndicate)
+
+14-tool MCP server that exposes a full multi-agent swarm workflow from your IDE. Submit tasks, trigger cross-model reviews, query compound memory, manage approvals — all without leaving Cursor.
+
+```json
+{ "mcpServers": { "syndicate": { "command": "python", "args": ["syndicate-mcp/server.py"] } } }
+```
+
+</details>
+
+---
+
+<details>
+<summary><h2>🌐 Open Source</h2></summary>
+
+**Merged PRs to external repos:**
+
+| Repository | PR |
+|---|---|
+| [**intuit/quickbooks-online-mcp-server**](https://github.com/intuit/quickbooks-online-mcp-server) | [feat: add LinkedTxn support for quote-to-invoice conversion #66](https://github.com/intuit/quickbooks-online-mcp-server/pull/66) |
+| [**intuit/quickbooks-online-mcp-server**](https://github.com/intuit/quickbooks-online-mcp-server) | [docs: clarify Intuit OAuth app setup constraints #65](https://github.com/intuit/quickbooks-online-mcp-server/pull/65) |
+| [**kunovsky/paid-open-source-projects**](https://github.com/kunovsky/paid-open-source-projects) | [Add tscircuit — React framework for electronics #11](https://github.com/kunovsky/paid-open-source-projects/pull/11) |
+| [**SAARTHII-AI/Saarthi-AI**](https://github.com/SAARTHII-AI/Saarthi-AI) | [Online-Offline dual layer with Azure & Brightdata #2](https://github.com/SAARTHII-AI/Saarthi-AI/pull/2) |
+| [**SAARTHII-AI/Saarthi-AI**](https://github.com/SAARTHII-AI/Saarthi-AI) | [Refactor frontend UI to full-page responsive layout #3](https://github.com/SAARTHII-AI/Saarthi-AI/pull/3) |
+
+</details>
+
+---
+
+<details>
+<summary><h2>🛠️ Stack</h2></summary>
 
 <div align="center">
 
@@ -145,58 +207,12 @@ Production models silently degrade — adversarial perturbations collapse accura
 
 </div>
 
----
-
-## 🚀 Projects
-
-| Project | What it does | Link |
-|---------|-------------|------|
-| **NWTR** | AI-powered real estate — Next.js 15, Three.js, R3F, GSAP, Spline, 42-component design system | [Live](https://nwtr-web.vercel.app) |
-| **AtomicPulse** | AI performance management — GPT-4o copilot, SMART goals, KPI prediction, semantic search | [Live](https://atomic-pulse-aj5.vercel.app/) |
-| **PrepWise.AI** | Azure OpenAI interview platform — resume parsing, adaptive questions, tone analysis, scored PDFs | [Live](https://prep-wise-ai-gvw4.vercel.app/) |
-| **Vibe Syndicate** | 6-agent self-improving swarm — cross-model review, compound memory, 14 MCP tools | [Live](https://syndicate-ui-five.vercel.app) |
-| **XenoReach.AI** | AI-native CRM — autonomous campaign agents that plan, execute & optimize marketing workflows | [Live](https://xeno-reach-ai.vercel.app) |
-| **Workforce Dashboard** | Regional workforce intelligence — Indeed/LinkedIn/USAJobs ingestion, skills gap mapping, NL Q&A | [Live](https://wwv-commit-ai.vercel.app/) |
-
-> Also: [SaarthiAI](https://saarthi-ai--aditjain628.replit.app/) (11-language farmer voice assistant, RAG) · [AI Tool Discovery Agent](https://github.com/Adit-Jain-srm/AI_Agent-Weekly-Discovery) (async GPT-4o pipeline + Teams) · [GitHub AI Code Review Bot](https://github.com/aditj-optimus/github-ai-code-review-bot) (RAG + Azure Functions)
+</details>
 
 ---
 
-## 📦 Published Tools
-
-### [skill-forge](https://github.com/Adit-Jain-srm/skill-forge)
-
-Self-improving intelligence amplifier for AI coding agents. 18 behavioral skills (diagnose, prove-it, self-review, grill, context-builder, mcp-conductor, ai-debt-detector...) that make Cursor, Claude Code, Copilot, and Codex fundamentally better. Zero npm dependencies, TF-IDF routing, SkillOpt self-improvement loop.
-
-```bash
-npx skills@latest add Adit-Jain-srm/skill-forge
-```
-
-### [Vibe Syndicate MCP](https://github.com/Adit-Jain-srm/Vibe-Syndicate)
-
-14-tool MCP server that exposes a full multi-agent swarm workflow from your IDE. Submit tasks, trigger cross-model reviews, query compound memory, manage approvals — all without leaving Cursor.
-
-```json
-{ "mcpServers": { "syndicate": { "command": "python", "args": ["syndicate-mcp/server.py"] } } }
-```
-
----
-
-## 🌐 Open Source
-
-**Merged PRs to external repos:**
-
-| Repository | PR |
-|---|---|
-| [**intuit/quickbooks-online-mcp-server**](https://github.com/intuit/quickbooks-online-mcp-server) | [feat: add LinkedTxn support for quote-to-invoice conversion #66](https://github.com/intuit/quickbooks-online-mcp-server/pull/66) |
-| [**intuit/quickbooks-online-mcp-server**](https://github.com/intuit/quickbooks-online-mcp-server) | [docs: clarify Intuit OAuth app setup constraints #65](https://github.com/intuit/quickbooks-online-mcp-server/pull/65) |
-| [**kunovsky/paid-open-source-projects**](https://github.com/kunovsky/paid-open-source-projects) | [Add tscircuit — React framework for electronics #11](https://github.com/kunovsky/paid-open-source-projects/pull/11) |
-| [**SAARTHII-AI/Saarthi-AI**](https://github.com/SAARTHII-AI/Saarthi-AI) | [Online-Offline dual layer with Azure & Brightdata #2](https://github.com/SAARTHII-AI/Saarthi-AI/pull/2) |
-| [**SAARTHII-AI/Saarthi-AI**](https://github.com/SAARTHII-AI/Saarthi-AI) | [Refactor frontend UI to full-page responsive layout #3](https://github.com/SAARTHII-AI/Saarthi-AI/pull/3) |
-
----
-
-## 📊 Stats
+<details>
+<summary><h2>📊 Stats</h2></summary>
 
 <div align="center">
 
@@ -210,6 +226,8 @@ npx skills@latest add Adit-Jain-srm/skill-forge
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adit-Jain-srm&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
 
 </div>
+
+</details>
 
 ---
 
@@ -228,17 +246,6 @@ If you're into agentic AI, adversarial robustness, multi-agent orchestration, or
 
 [![Email](https://img.shields.io/badge/aditjain2005@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditjain2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-adit-jain)
-
-<br/>
-
-<br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adit-Jain-srm/Adit-Jain-srm/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adit-Jain-srm/Adit-Jain-srm/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Adit-Jain-srm/Adit-Jain-srm/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
