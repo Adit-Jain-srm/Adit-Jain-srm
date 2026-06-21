@@ -28,7 +28,7 @@ Vibes:      Chess, CTFs, Table Tennis, AGI research, coffee with extra sugar ☕
 I build AI systems that don't just predict — they **reason, orchestrate, and self-improve**. Multi-agent swarms that get better every cycle. Adversarial training loops that harden models while you sleep. RAG pipelines that actually work in production. IDE skills that make other developers' agents smarter.
 
 ![Visitors](https://komarev.com/ghpvc/?username=Adit-Jain-srm&color=58a6ff&style=flat-square&label=Profile+Views)
-![Repos](https://img.shields.io/badge/dynamic/json?color=181717&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAdit-Jain-srm&style=flat-square&logo=github)
+![Repos](https://img.shields.io/badge/dynamic/json?color=181717&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAdit-Jain-srm&style=flat-square&logo=github&logoColor=white)
 
 ---
 
