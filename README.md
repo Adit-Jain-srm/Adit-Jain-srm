@@ -1,11 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=hey%2C%20i'm%20adit&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=i%20make%20AI%20do%20things%20it%20probably%20shouldn't%20be%20able%20to&descSize=16&descAlignY=58&animation=fadeIn)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=LLMOps+%E2%80%A2+Multi-Agent+Systems+%E2%80%A2+RAG+Pipelines;Adversarial+Robustness+%40+NightmareNet;6-Agent+Self-Improving+Swarm+%40+Vibe+Syndicate;18+Published+IDE+Skills+%40+skill-forge;Pre-Final+Year+B.Tech+AI%2FML+%40+SRM+IST)](https://git.io/typing-svg)
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-adit-jain)
 [![CV](https://img.shields.io/badge/CV-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/adit-jain-cv)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adit-Jain-srm)
