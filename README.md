@@ -28,6 +28,7 @@ Vibes:      Chess, CTFs, Table Tennis, AGI research, coffee with extra sugar ☕
 I build AI systems that don't just predict — they **reason, orchestrate, and self-improve**. Multi-agent swarms that get better every cycle. Adversarial training loops that harden models while you sleep. RAG pipelines that actually work in production. IDE skills that make other developers' agents smarter.
 
 ![Visitors](https://komarev.com/ghpvc/?username=Adit-Jain-srm&color=58a6ff&style=flat-square&label=Profile+Views)
+![Repos](https://img.shields.io/badge/dynamic/json?color=181717&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAdit-Jain-srm&style=flat-square&logo=github)
 
 ---
 
@@ -206,7 +207,7 @@ npx skills@latest add Adit-Jain-srm/skill-forge
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Adit-Jain-srm&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Adit-Jain-srm&theme=algolia&no-frame=true&column=7&margin-w=8)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adit-Jain-srm&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
 
 </div>
 
