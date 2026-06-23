@@ -16,7 +16,7 @@
 Name:       Adit Jain
 Location:   Delhi NCR, India
 Education:  B.Tech CSE (AI/ML) @ SRM IST '27
-Vibes:      Chess, CTFs, Table Tennis, AGI research, coffee with extra sugar ☕, turning ideas into deploys
+Vibes:      Chess, CTFs, Table Tennis, AGI research, existential psychology, coffee with extra sugar ☕, turning ideas into deploys
 ```
 
 I build AI systems that don't just predict — they **reason, orchestrate, and self-improve**. Multi-agent swarms that get better every cycle. Adversarial training loops that harden models while you sleep. RAG pipelines that actually work in production. IDE skills that make other developers' agents smarter.
@@ -210,8 +210,8 @@ npx skills@latest add Adit-Jain-srm/skill-forge
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adit-Jain-srm&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Jain-srm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adit-Jain-srm&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&cache_seconds=1800" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Jain-srm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
 
 <br/>
 
