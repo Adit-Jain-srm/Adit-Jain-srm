@@ -23,7 +23,6 @@ I build AI systems that don't just predict — they **reason, orchestrate, and s
 
 ![Visitors](https://komarev.com/ghpvc/?username=Adit-Jain-srm&color=58a6ff&style=flat-square&label=Profile+Views)
 ![Repos](https://img.shields.io/badge/dynamic/json?color=181717&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAdit-Jain-srm&style=flat-square&logo=github&logoColor=white)
-![Followers](https://img.shields.io/github/followers/Adit-Jain-srm?style=flat-square&color=58a6ff&logo=github&logoColor=white)
 
 ---
 
