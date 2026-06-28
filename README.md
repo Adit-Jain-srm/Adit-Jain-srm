@@ -26,7 +26,7 @@ I build AI systems that don't just predict — they **reason, orchestrate, and s
 
 ---
 
-<details open>
+<details>
 <summary><h2>🧠 Currently Building — NightmareNet</h2></summary>
 
 <div align="center">
@@ -99,13 +99,21 @@ npx skills@latest add Adit-Jain-srm/skill-forge
 
 **Merged PRs to external repos:**
 
-| Repository | PR |
-|---|---|
-| [**intuit/quickbooks-online-mcp-server**](https://github.com/intuit/quickbooks-online-mcp-server) | [feat: add LinkedTxn support for quote-to-invoice conversion #66](https://github.com/intuit/quickbooks-online-mcp-server/pull/66) |
-| [**intuit/quickbooks-online-mcp-server**](https://github.com/intuit/quickbooks-online-mcp-server) | [docs: clarify Intuit OAuth app setup constraints #65](https://github.com/intuit/quickbooks-online-mcp-server/pull/65) |
-| [**kunovsky/paid-open-source-projects**](https://github.com/kunovsky/paid-open-source-projects) | [Add tscircuit — React framework for electronics #11](https://github.com/kunovsky/paid-open-source-projects/pull/11) |
-| [**SAARTHII-AI/Saarthi-AI**](https://github.com/SAARTHII-AI/Saarthi-AI) | [Online-Offline dual layer with Azure & Brightdata #2](https://github.com/SAARTHII-AI/Saarthi-AI/pull/2) |
-| [**SAARTHII-AI/Saarthi-AI**](https://github.com/SAARTHII-AI/Saarthi-AI) | [Refactor frontend UI to full-page responsive layout #3](https://github.com/SAARTHII-AI/Saarthi-AI/pull/3) |
+| Repository | PRs | Highlights |
+|---|---|---|
+| [**Him-an-shi/Aarini**](https://github.com/Him-an-shi/Aarini) | [16 merged](https://github.com/Him-an-shi/Aarini/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | SSE streaming, i18n, accessibility, encryption, offline sync, auth, testing |
+| [**PRODHOSH/ossfolio**](https://github.com/PRODHOSH/ossfolio) | [8 merged](https://github.com/PRODHOSH/ossfolio/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | Profile discovery, keyboard shortcuts, OG tags, contribution heatmap |
+| [**intuit/quickbooks-online-mcp-server**](https://github.com/intuit/quickbooks-online-mcp-server) | [2 merged](https://github.com/intuit/quickbooks-online-mcp-server/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | LinkedTxn feature, OAuth docs |
+| [**SRV30/samridhi-enterprises**](https://github.com/SRV30/samridhi-enterprises) | [2 merged](https://github.com/SRV30/samridhi-enterprises/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | Env validation, request logging, error handling |
+| [**akshay0611/havenly**](https://github.com/akshay0611/havenly) | [2 merged](https://github.com/akshay0611/havenly/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | Review form, share property |
+| [**arghya29/EcoSphere**](https://github.com/arghya29/EcoSphere) | [2 merged](https://github.com/arghya29/EcoSphere/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | Loading/error states, UI fix |
+| [**firecrawl/firecrawl**](https://github.com/firecrawl/firecrawl) | [1 merged](https://github.com/firecrawl/firecrawl/pull/3694) | Python SDK Pydantic fix |
+| [**SAARTHII-AI/Saarthi-AI**](https://github.com/SAARTHII-AI/Saarthi-AI) | [3 merged](https://github.com/SAARTHII-AI/Saarthi-AI/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | Azure + Brightdata integration, frontend refactor |
+| [**souma9830/FixNearby**](https://github.com/souma9830/FixNearby) | [1 merged](https://github.com/souma9830/FixNearby/pull/592) | Password strength validation |
+| [**arghya29/Github-User-Analyser**](https://github.com/arghya29/Github-User-Analyser) | [1 merged](https://github.com/arghya29/Github-User-Analyser/pull/30) | Expandable repo details |
+| [**kunovsky/paid-open-source-projects**](https://github.com/kunovsky/paid-open-source-projects) | [1 merged](https://github.com/kunovsky/paid-open-source-projects/pull/11) | tscircuit listing |
+
+> **45+ merged PRs** across 11 external repos — features, security hardening, testing, accessibility, i18n
 
 </details>
 
