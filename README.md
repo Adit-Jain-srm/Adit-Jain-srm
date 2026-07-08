@@ -43,7 +43,7 @@ Wake → Dream → Nightmare → Compress → repeat
 
 Production models silently degrade — adversarial perturbations collapse accuracy from 92% to 23%. NightmareNet fixes that with a cyclic training paradigm inspired by sleep-mediated memory consolidation. Each cycle produces models that accumulate robustness without catastrophic forgetting.
 
-- 434+ tests passing | Dockerized | EU AI Act Article 15 compliance reporting
+- 500+ tests passing | Dockerized | EU AI Act Article 15 compliance reporting
 - **+13.64% relative robustness** WITHOUT clean-accuracy tradeoff
 - 3 cycles: **58.4% TextFooler acc** vs 23.1% baseline — with **35% fewer parameters**
 - Cyberpunk Next.js 16 dashboard (20 panels) + CLI (`nightmarenet train | evaluate | benchmark`)
