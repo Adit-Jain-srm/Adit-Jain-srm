@@ -61,6 +61,7 @@ Production models silently degrade — adversarial perturbations collapse accura
 | **NWTR** | AI-powered real estate — Next.js 15, Three.js, R3F, GSAP, Spline, 42-component design system | [Live](https://nwtr-web.vercel.app) |
 | **AtomicPulse** | AI performance management — GPT-4o copilot, SMART goals, KPI prediction, semantic search | [Live](https://atomic-pulse-aj5.vercel.app/) |
 | **PrepWise.AI** | Azure OpenAI interview platform — resume parsing, adaptive questions, tone analysis, scored PDFs | [Live](https://prep-wise-ai-gvw4.vercel.app/) |
+| **MediaOS** | AI media buyer agent — audience research engine (6 providers via Bright Data), ad creative gen, landing page deploy | [Live](https://mediaos-kappa.vercel.app) |
 | **Vibe Syndicate** | 6-agent self-improving swarm — cross-model review, compound memory, 14 MCP tools | [Live](https://syndicate-ui-five.vercel.app) |
 | **XenoReach.AI** | AI-native CRM — autonomous campaign agents that plan, execute & optimize marketing workflows | [Live](https://xeno-reach-ai.vercel.app) |
 | **Workforce Dashboard** | Regional workforce intelligence — Indeed/LinkedIn/USAJobs ingestion, skills gap mapping, NL Q&A | [Live](https://wwv-commit-ai.vercel.app/) |
