@@ -14,7 +14,7 @@
 
 ```json
 {
-  "after-hours": [
+  "vibes": [
     "plays chess",
     "breaks CTFs",
     "smashes TT",
