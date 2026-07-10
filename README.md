@@ -13,8 +13,6 @@
 ## `> whoami`
 
 ```yaml
-Name:       Adit Jain
-Location:   Delhi NCR, India
 Education:  B.Tech CSE (AI/ML) @ SRM IST '27
 Vibes:      Chess, CTFs, Table Tennis, AGI research, existential psychology, coffee with extra sugar ☕, turning ideas into deploys
 ```
