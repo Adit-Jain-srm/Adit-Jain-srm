@@ -13,7 +13,7 @@
 ## `> whoami`
 
 ```yaml
-Vibes:      Chess, CTFs, Table Tennis, AGI research, existential psychology, coffee with extra sugar ☕, turning ideas into deploys
+after-hours: plays chess, breaks CTFs, smashes TT, thinks about AGI too much, reads existential psychology for fun, runs on coffee with extra sugar ☕, and turns napkin ideas into live URLs.
 ```
 
 I build AI systems that don't just predict — they **reason, orchestrate, and self-improve**. Multi-agent swarms that get better every cycle. Adversarial training loops that harden models while you sleep. RAG pipelines that actually work in production. IDE skills that make other developers' agents smarter.
