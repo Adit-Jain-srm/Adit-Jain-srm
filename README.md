@@ -73,7 +73,7 @@ Production models silently degrade — adversarial perturbations collapse accura
 | **XenoReach.AI** | AI-native CRM — autonomous campaign agents that plan, execute & optimize marketing workflows | [Live](https://xeno-reach-ai.vercel.app) |
 | **Workforce Dashboard** | Regional workforce intelligence — Indeed/LinkedIn/USAJobs ingestion, skills gap mapping, NL Q&A | [Live](https://wwv-commit-ai.vercel.app/) |
 
-> Also: [SaarthiAI](https://saarthi-ai--aditjain628.replit.app/) (11-language farmer voice assistant, RAG) · [AI Tool Discovery Agent](https://github.com/Adit-Jain-srm/AI_Agent-Weekly-Discovery) (async GPT-4o pipeline + Teams) · [GitHub AI Code Review Bot](https://github.com/aditj-optimus/github-ai-code-review-bot) (RAG + Azure Functions)
+> Also: [SaarthiAI](https://saarthi-ai--aditjain628.replit.app/) (11-language farmer voice assistant, RAG) · [AI Tool Discovery Agent](https://github.com/Adit-Jain-srm/AI-Tool-Discovery-Agent) (async GPT-4o pipeline + Teams) · [GitHub AI Code Review Bot](https://github.com/aditj-optimus/github-ai-code-review-bot) (RAG + Azure Functions)
 
 </details>
 
