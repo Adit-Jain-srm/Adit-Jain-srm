@@ -109,15 +109,15 @@ npx skills@latest add Adit-Jain-srm/skill-forge
 
 | Repository | PRs | Highlights |
 |---|---|---|
-| [**Him-an-shi/Aarini**](https://github.com/Him-an-shi/Aarini) | [32 merged](https://github.com/Him-an-shi/Aarini/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | SSE streaming, i18n, encryption, offline sync, accessibility, auth, full test suite |
+| [**Him-an-shi/Aarini**](https://github.com/Him-an-shi/Aarini) | [39 merged](https://github.com/Him-an-shi/Aarini/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | SSE streaming, i18n, encryption, anomaly detection, time-series, offline sync, accessibility, auth, testing |
 | [**PRODHOSH/ossfolio**](https://github.com/PRODHOSH/ossfolio) | [11 merged](https://github.com/PRODHOSH/ossfolio/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | Profile discovery, keyboard shortcuts, OG tags, heatmap, type safety |
 | [**SRV30/Faith-and-Fast**](https://github.com/SRV30/Faith-and-Fast) | [5 merged](https://github.com/SRV30/Faith-and-Fast/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | Security hardening, rate limiting, env validation, perf, error boundaries |
 | [**souma9830/SnapPass-AI**](https://github.com/souma9830/SnapPass-AI) | [4 merged](https://github.com/souma9830/SnapPass-AI/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | Rate limiting, Redis graceful degradation, a11y, meta hooks |
+| [**intuit/quickbooks-online-mcp-server**](https://github.com/intuit/quickbooks-online-mcp-server) | [3 merged](https://github.com/intuit/quickbooks-online-mcp-server/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | LinkedTxn feature, OAuth docs, symlink env fix |
 | [**SAARTHII-AI/Saarthi-AI**](https://github.com/SAARTHII-AI/Saarthi-AI) | [3 merged](https://github.com/SAARTHII-AI/Saarthi-AI/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | Azure + Brightdata integration, frontend refactor |
 | [**SRV30/samridhi-enterprises**](https://github.com/SRV30/samridhi-enterprises) | [3 merged](https://github.com/SRV30/samridhi-enterprises/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | Env validation, structured logging, error handling |
 | [**akshay0611/havenly**](https://github.com/akshay0611/havenly) | [3 merged](https://github.com/akshay0611/havenly/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | Review form, share property, dynamic UI |
 | [**arghya29/EcoSphere**](https://github.com/arghya29/EcoSphere) | [3 merged](https://github.com/arghya29/EcoSphere/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | Loading/error states, UI fixes |
-| [**intuit/quickbooks-online-mcp-server**](https://github.com/intuit/quickbooks-online-mcp-server) | [2 merged](https://github.com/intuit/quickbooks-online-mcp-server/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | LinkedTxn feature, OAuth docs |
 | [**SRV30/Box_Office_Inc-Movie_Sim**](https://github.com/SRV30/Box_Office_Inc-Movie_Sim) | [2 merged](https://github.com/SRV30/Box_Office_Inc-Movie_Sim/pulls?q=is%3Apr+author%3AAdit-Jain-srm+is%3Amerged) | Feature contributions |
 | [**fastify/fastify**](https://github.com/fastify/fastify) (36k+ stars) | [1 merged](https://github.com/fastify/fastify/pull/6805) | Docs: fix incorrect defaults and code examples |
 | [**firecrawl/firecrawl**](https://github.com/firecrawl/firecrawl) | [1 merged](https://github.com/firecrawl/firecrawl/pull/3694) | Python SDK Pydantic fix |
@@ -126,7 +126,7 @@ npx skills@latest add Adit-Jain-srm/skill-forge
 | [**souma9830/FixNearby**](https://github.com/souma9830/FixNearby) | [1 merged](https://github.com/souma9830/FixNearby/pull/592) | Password strength validation |
 | [**arghya29/Github-User-Analyser**](https://github.com/arghya29/Github-User-Analyser) | [1 merged](https://github.com/arghya29/Github-User-Analyser/pull/30) | Expandable repo details |
 
-> **74 merged PRs** across 16 external repos — features, security, accessibility, testing, performance
+> **82 merged PRs** across 16 external repos — features, security, accessibility, testing, performance
 
 </details>
 
